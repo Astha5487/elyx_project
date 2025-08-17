@@ -89,5 +89,4 @@ Screenshots
 ![Screenshot 9](https://github.com/user-attachments/assets/eb06831d-d044-47d4-b46a-79e07b8b0ce4)
 ![Screenshot 10](https://github.com/user-attachments/assets/4b0cc38f-98a1-4366-a0fd-9f521c76e9f2)
 ![Screenshot 11](https://github.com/user-attachments/assets/8cdbca14-5ff2-4a93-bc8e-fdd4b16bda38)
-![Screenshot 12](https://github.com/user-attachments/assets/505ed698-d0aa-440e-8dbc-8b187eb5a7ec)
 
