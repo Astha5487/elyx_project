@@ -53,29 +53,30 @@ This project integrates:
 - Git
 
 ### Clone Repository
-Clone the repository using: git clone https://github.com/<your-username>/elyx_project.git
-Then navigate into the folder: cd elyx_project
+- Clone the repository using: git clone https://github.com/<your-username>/elyx_project.git
+- Then navigate into the folder: cd elyx_project
 
-Frontend Setup
-Go to the frontend folder: cd frontend
-Install dependencies: npm install
-Run the frontend: npm run dev
-Open http://localhost:5173 to view the site.
+### Frontend Setup
+- Go to the frontend folder: cd frontend
+- Install dependencies: npm install
+- Run the frontend: npm run dev
+- Open http://localhost:5173 to view the site.
 
-Backend Setup
-Go to the backend folder: cd backend
-Build and run: mvn clean install and mvn spring-boot:run
-Backend runs on http://localhost:8080
+### Backend Setup
+- Go to the backend folder: cd backend
+- Build and run: mvn clean install and mvn spring-boot:run
+- Backend runs on http://localhost:8080
 
-Streamlit Dashboard Setup
-Go to the streamlit dashboard folder: cd streamlit_dashboard
-Install requirements: pip install -r requirements.txt
-Run Streamlit: streamlit run elyx_dash_final.py
-Dashboard runs on http://localhost:8501
+### Streamlit Dashboard Setup
+- Go to the streamlit dashboard folder: cd streamlit_dashboard
+- Install requirements: pip install -r requirements.txt
+- Run Streamlit: streamlit run elyx_dash_final.py
+- Dashboard runs on http://localhost:8501
 
-Usage
-Access the frontend at localhost:5173 to explore member panel, dashboard, chat, and profile.
-Use backend APIs at localhost:8080 to manage data.
-Open Streamlit dashboard for internal analytics and visualization.
+### Usage
+- Access the frontend at localhost:5173 to explore member panel, dashboard, chat, and profile.
+- Use backend APIs at localhost:8080 to manage data.
+- Open Streamlit dashboard for internal analytics and visualization.
 
 Screenshots
+![ss](<img width="1438" height="798" alt="Image" src="https://github.com/user-attachments/assets/6d275b76-d0fc-4fe1-9ec2-052a2c048135" />)
