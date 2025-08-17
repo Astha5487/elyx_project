@@ -89,12 +89,7 @@ Use backend APIs at localhost:8080 to manage data.
 Open Streamlit dashboard for internal analytics and visualization.
 
 Screenshots
-Streamlit Dashboard
-
-
-
-
-React Frontend
+![SS](<img width="1438" height="798" alt="Image" src="https://github.com/user-attachments/assets/6d275b76-d0fc-4fe1-9ec2-052a2c048135" />)
 
 
 
