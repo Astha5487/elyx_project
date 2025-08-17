@@ -79,4 +79,18 @@ This project integrates:
 - Open Streamlit dashboard for internal analytics and visualization.
 
 Screenshots
-![ss](<img width="1438" height="798" alt="Image" src="https://github.com/user-attachments/assets/6d275b76-d0fc-4fe1-9ec2-052a2c048135" />)
+## Screenshots
+
+![Screenshot 1](https://github.com/user-attachments/assets/6d275b76-d0fc-4fe1-9ec2-052a2c048135)
+![Screenshot 2](https://github.com/user-attachments/assets/f7bad3b6-a722-4322-8f84-a80ba4d78d91)
+![Screenshot 3](https://github.com/user-attachments/assets/5e2e2d73-7e63-4377-af0c-24daded7f6a5)
+![Screenshot 4](https://github.com/user-attachments/assets/987975c6-576e-4786-9c27-cbe9011efb52)
+![Screenshot 5](https://github.com/user-attachments/assets/39b3aa28-d9b4-4ab0-b130-e562b047f888)
+![Screenshot 6](https://github.com/user-attachments/assets/fbcbddd4-b2ea-4b2f-9fcc-b69c13f6326f)
+![Screenshot 7](https://github.com/user-attachments/assets/c833bfb4-ffb4-4ef2-863a-48df9596d855)
+![Screenshot 8](https://github.com/user-attachments/assets/f50cc955-f31a-4746-8a80-3fc5292111d9)
+![Screenshot 9](https://github.com/user-attachments/assets/eb06831d-d044-47d4-b46a-79e07b8b0ce4)
+![Screenshot 10](https://github.com/user-attachments/assets/4b0cc38f-98a1-4366-a0fd-9f521c76e9f2)
+![Screenshot 11](https://github.com/user-attachments/assets/8cdbca14-5ff2-4a93-bc8e-fdd4b16bda38)
+![Screenshot 12](https://github.com/user-attachments/assets/505ed698-d0aa-440e-8dbc-8b187eb5a7ec)
+
